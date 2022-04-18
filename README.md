@@ -42,6 +42,10 @@ node index.js
 
 
 # Project in Action
+
+https://user-images.githubusercontent.com/88118070/163884358-1a1da130-2b4b-4ce9-9c14-61b8cb790076.mp4
+
+
 ## Technology used: MERN stack
 # Features
 >- Navbar
