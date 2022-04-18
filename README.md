@@ -10,7 +10,7 @@
 </p>
 
 # Description
-> This is a my first fullstack application using MERN stack. A basic online banking application that allows to create user accounts, login into the user's profile, make a deposit, a withdraw, check balance and retrieve all active users. 
+> This is my first fullstack application using MERN stack. A basic online banking application that allows to create user accounts, login into the user's profile, make a deposit, a withdraw, check balance and retrieve all active users. 
 
 # Installation Guidelines
 ## Clone this repository 
@@ -38,24 +38,23 @@ node index.js
 
 ## Open App in the browser 
 
-```sh
-http://localhost:3000/#/
-```
+* (http://localhost:3000)
+
 
 # Project in Action
 # Technology used: MERN stack
 # Features
-> Navbar
-> Create Account
-> Login
-> Deposit
-> Withdraw
-> Balance
-> All data
-> FUTURE features
-> Firebase Authentication
-> User color scheme customization
-> Firebase email confirmation
+>- Navbar
+>- Create Account
+>- Login
+>- Deposit
+>- Withdraw
+>- Balance
+>- All data
+>- FUTURE features
+>- Firebase Authentication
+>- User color scheme customization
+>- Firebase email confirmation
 ## Author
 
 👤 **Martha **
