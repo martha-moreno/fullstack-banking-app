@@ -42,7 +42,7 @@ node index.js
 
 
 # Project in Action
-# Technology used: MERN stack
+## Technology used: MERN stack
 # Features
 >- Navbar
 >- Create Account
@@ -51,7 +51,7 @@ node index.js
 >- Withdraw
 >- Balance
 >- All data
->- FUTURE features
+#FUTURE features
 >- Firebase Authentication
 >- User color scheme customization
 >- Firebase email confirmation
