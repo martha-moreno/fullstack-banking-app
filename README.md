@@ -55,7 +55,8 @@ https://user-images.githubusercontent.com/88118070/163884358-1a1da130-2b4b-4ce9-
 >- Withdraw
 >- Balance
 >- All data
-#FUTURE features
+## FUTURE features
+>- Form validation
 >- Firebase Authentication
 >- User color scheme customization
 >- Firebase email confirmation
